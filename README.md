@@ -35,7 +35,7 @@
 
 3）大都会（Metropolis，2017年10月）：**5ETH -> 3ETH -> 2ETH**
 
-* 拜占庭是拜占庭（Byzantium，2017年10月）**5ETH -> 3ETH**
+* 拜占庭（Byzantium，2017年10月）**5ETH -> 3ETH**
     
 * 君士坦丁堡（Constantinople，2019年1月）**3ETH -> 2ETH**
 
@@ -171,7 +171,7 @@ ERC1400标准声明了canSend函数来实现转账限制，并利用canSend返�
 
 ### 6、ERC1820是什么？ ###
 
-ERC1820标准定义了一个通用接口注册表合约。
+ERC1820标准定义了一个通用的接口注册表合约。
 
 状态：**定稿（Final）**
 
